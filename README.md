@@ -1,3 +1,3 @@
 - 👋 Hi, I’m João Sousa, I am a Software and Web Developer current work and studying
-- 👀 I’m interested in football, coding, travell and food
+- 👀 I’m interested in football ⚽️, mac world 🎧⌚️, coding 👨🏽‍💻 , travel ✈ and food 🌮 🍔
 - 🌱 I’m currently learning more about .NET CORE, RFID and OPC UA as i am developing a big project for my dissertation of masters degree
